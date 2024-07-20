@@ -1,1 +1,1 @@
-# BlogPageProject
+This project predicts the percentage score of a student based on the number of study hours using simple linear regression. It demonstrates a basic application of supervised machine learning for educational data analysis.
